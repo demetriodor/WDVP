@@ -254,3 +254,4 @@ ggplot(w1, aes(x=w1$var, y=w1$size3, fill=w1$size3, color=w1$size3)) +
   coord_cartesian(ylim = c(1, 7), clip = 'off') 
 dev.off()
 
+#The different figures (panels) are put together in Photoshop (almost any image-processing software will do). 
