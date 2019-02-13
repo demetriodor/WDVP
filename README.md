@@ -6,5 +6,8 @@ This repository contains the `R` scripts that replicate the two figures submitte
 To replicate the figures, first run the data collection and wrangling script, then each of the other two files. 
 
 # Figure 1
-
+![When money does not buy happiness](https://github.com/demetriodor/WDVP/blob/master/figures/toshkov_all_states.jpg)
+        
+      
 # Figure 2
+![Small states can be big players](https://github.com/demetriodor/WDVP/blob/master/figures/toshkov_small_states.jpg)
